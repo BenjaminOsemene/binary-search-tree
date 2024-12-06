@@ -92,7 +92,6 @@ public class TreeController {
             }
         }
 
-        // Return all trees as a list of maps
         return ResponseEntity.ok(trees);
     }
 }
