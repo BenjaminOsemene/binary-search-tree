@@ -16,6 +16,6 @@ the application. Access the application:
 Open a web browser and navigate to:
 http://localhost:8081/enter-numbers
 
-Then, enter numbers to create a binary search tree.
+Then, enter numbers seperated by commas to create a binary search tree.
 Use the 'Show Previous' button to view earlier trees stored in the database.
 
